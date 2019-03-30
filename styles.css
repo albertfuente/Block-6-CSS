@@ -1,0 +1,100 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+.bar{
+  display: inline-block;
+  background-color: black;
+  height:35px;
+  width:100%;;
+  color:white;
+  margin-top: 0px;
+  position: absolute;
+  top:0px;
+  left:0px;
+  padding-top: 10px;
+}
+.Menu{
+  display: inline-block;
+  position: absolute;
+  top:45px;
+  left:0px;
+  height:500px;
+  width: 15%;
+  background-color: #dbe9b7;
+  padding-left: 10px;
+}
+.Rest{
+  display: inline-block;
+  position: absolute;
+  top:45px;
+  left:15%;
+  height:500px;
+  width: 85%;
+  background-color: #f4dada;
+}
+.heading1{
+  display: inline-block;
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 250px;
+  width:800px;
+  background-color: #f4dada;
+  padding: 10px 10px 10px 10px;
+}
+.add1{
+  display: inline-block;
+  position: absolute;
+  top:0px;
+  left:800px;
+  height: 250px;
+  width:800px;
+  background-color: #f4dada;
+  padding: 10px 10px 10px 10px;
+}
+.subAdd1{
+  height: 60px;
+  width: 350px;
+  border: 2px dotted;
+  text-align: center;
+
+}
+.subAdd2{
+  margin-top: 10px;
+  height: 100px;
+  width: 350px;
+  border: 2px dotted;
+  text-align: center;
+
+}
+
+
+
+
+.heading2{
+  display: inline-block;
+  position: absolute;
+  top:230px;
+  left:0px;
+  height: 250px;
+  width:800px;
+  background-color: #f4dada;
+  padding: 10px 10px 10px 10px;
+
+}
+.add2{
+  display: inline-block;
+  position: absolute;
+  top:0px;
+  left:800px;
+  height: 250px;
+  width:800px;
+  background-color: #f4dada;
+  padding: 10px 10px 10px 10px;
+}
+
+
+span{
+  margin: 0px 20px;
+}
+}
